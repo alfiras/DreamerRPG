@@ -15,7 +15,7 @@ const Knight = () => {
       }
     },
     remove: function (key) {
-      if (!this.dep[key]) {
+      if (this.dep[key]) {
         delete this.dep[key];
       }
     },
