@@ -48,8 +48,3 @@ Lalu pastikan **host, port, path** sudah benar sesuai dengan Peer Server anda & 
 4. Pada tab 2 masukkan `ID` dari tab 1, lalu klik **Koneksikan**.
 
 5. Jika koneksi berhasil maka pemain dari tab lain akan muncul, pergerakan dan chat bisa dilakukan.
-
-------------
-
-### Ada masalah ?
-Hubungi saya, [Alfiras](https://t.me/alfiras_b)
